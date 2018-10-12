@@ -278,3 +278,92 @@ nav h1 a {
 #restaurant-hours td {
   color: #666;
 }
+
+
+@media screen and (max-width: 449px) {
+	body {
+     display: grid;
+    grid-template-columns: 1fr;
+
+}
+
+.inside #map-container {
+       height: 35%;
+        width: 100%;
+}
+
+.inside #footer {
+     position: fixed;
+    width: 100%;
+}
+
+#footer {
+    z-index: 100;
+ }
+ 
+#restaurants-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#reviews-list li {
+     position: initial; 
+    width: 85%;
+}
+
+#restaurant-container {
+     margin-top: 10px;
+    padding: 310px 0 40px 0;
+        width: 100%;
+    text-align: center;
+}
+#reviews-container {
+	width: 100%;
+    padding: 10px 10px 80px;
+    text-align: center;
+
+}
+
+#restaurant-name {
+    font-size: 18px;
+    text-align: center;
+    font-weight: 150px;
+    margin: 15px 0 0 30px;
+}
+#maincontent {
+
+    min-height: 80%;
+    margin-bottom: -100px;
+    
+}
+#footer {
+    padding: 25px 4px 25px 4px;
+   
+}
+.inside #footer {
+    width: 100%; 
+}
+#breadcrumb {
+       width: 100%;
+       text-align: center;
+}
+#restaurant-img {
+    width: 90%;
+    margin-left: 10px;
+}
+#restaurant-cuisine {
+        width: 100%;
+}
+nav h1 a {
+        letter-spacing: 2px;
+    }
+   nav {
+        height: 40px;
+   } 
+	}
+@media screen and (min-width: 450px) and (max-width: 800px){
+	
+}

@@ -9,9 +9,9 @@ You have to first ensure that you installed python on your system. but if you do
 
 ## How to run the App
 - launch the server by typing this command  on your `terminal` or `command prompt`: **python -m http.server:8000** if you are using python 2 or **python3 -m http.server:8000**
-- type this on your browser `http://localhost:8000
+- type this on your browser `http://localhost:8000`
 
-- You can also run the App by clicking on the [link], but note that images will not load as they are hosted locally. the best option is option *1* and *2* above.
+- You can also run the App by clicking on the [link] (https://write2nk.github.io/Odu_Nkiruka_Restaurant_App/.) but note that images will not load as they are hosted locally. the best option is option *1* and *2* above.
 
 ## Dependencies 
 - Google Map API Key

@@ -17,5 +17,8 @@ You have to first ensure that you installed python on your system. but if you do
 - Google Map API Key
 - Map Box API Key
 
+## Reference
+I got some inspirations from [matthew] (https://matthewcranford.com/restaurant-reviews-app-walkthrough-part-1-map-api/)
+
 ## Final Comment
 My unreserved gratitude to goes to Google, ALC and Udacity for a great priviledge to learn these skill. Long Live Google, Long live ALC, Long live Udacity.
